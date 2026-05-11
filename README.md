@@ -74,3 +74,4 @@ Clean Architecture / MVVM – maintainable and testable code structure
 
 
 ![1756653429270](https://github.com/user-attachments/assets/530c4760-281a-4e64-a624-c55d45c40a94)
+<!-- commit 1 -->
