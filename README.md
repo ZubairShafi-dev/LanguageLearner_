@@ -78,3 +78,4 @@ Clean Architecture / MVVM – maintainable and testable code structure
 <!-- commit 2 -->
 <!-- commit 3 -->
 <!-- commit 4 -->
+<!-- commit 5 -->
